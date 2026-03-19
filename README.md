@@ -78,4 +78,4 @@ Vous êtes libre de l’utiliser, le modifier et le partager.
 
 ### 👨‍💻 Auteur
 Développé par Manu-dev-00  
-Projet académique / personnel pour la gestion des réservations de salles.
+Projet personnel pour la gestion des réservations de salles.
